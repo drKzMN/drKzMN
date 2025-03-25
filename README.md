@@ -1,4 +1,4 @@
-<h2 align="left">Hello 👋! My name is Emanuel Godinho de Melo and I am a student of Information Systems at UVV</h2>
+<h2 align="left">Olá 👋! Meu nome é Emanuel Godinho de Melo e sou aluno de Sistemas de Informação na UVV</h2>
 
 ###
 
